@@ -1,0 +1,282 @@
+[
+  {
+    "id": "id-8827gdf0c",
+    "title": "React",
+    "description": "React is a JavaScript library for building user interfaces.",
+    "img": "https://cdn-icons-png.flaticon.com/512/3334/3334886.png",
+    "chapters": [
+      {
+        "chapter": 1,
+        "title": "Introduction",
+        "description": "Introduction to React",
+        "details": "React is a JavaScript library for building user interfaces. It is maintained by Facebook and a community of individual developers and companies.",
+        "video": "https://www.youtube.com/embed/FZ0cG47msEk"
+      },
+      {
+        "chapter": 2,
+        "title": "JSX",
+        "description": "Learning JSX",
+        "details": "JSX is a syntax extension to JavaScript. It looks like HTML but has full power of JavaScript.",
+        "video": "https://www.youtube.com/embed/7HSd1sk07uU"
+      },
+      {
+        "chapter": 3,
+        "title": "Components",
+        "description": "What are Components?",
+        "details": "Components let you split UI into independent, reusable pieces.",
+        "video": "https://www.youtube.com/embed/MGuKhcnrqGA"
+      },
+      {
+        "chapter": 4,
+        "title": "Props",
+        "description": "Passing the data through Props",
+        "details": "Props are a way of passing data from parent to child.",
+        "video": "https://www.youtube.com/embed/JSek8TFn3Ks"
+      },
+      {
+        "chapter": 5,
+        "title": "State",
+        "description": "Single Source of Truth - State",
+        "details": "State is private data managed inside a component.",
+        "video": "https://www.youtube.com/embed/O6P86uwfdR0"
+      },
+      {
+        "chapter": 6,
+        "title": "Lifecycle",
+        "description": "Methods involved in Component Lifecycle",
+        "details": "Lifecycle methods let you run code at specific times in component's life.",
+        "video": "https://www.youtube.com/embed/7WwtzsSHdpI"
+      },
+      {
+        "chapter": 7,
+        "title": "Handling Events",
+        "description": "Handling Events",
+        "details": "React events are similar to DOM events but use camelCase.",
+        "video": "https://www.youtube.com/embed/M5QY2_8704o"
+      },
+      {
+        "chapter": 8,
+        "title": "Conditional Rendering",
+        "description": "Conditional Rendering",
+        "details": "Render UI based on conditions using &&, ?: and components.",
+        "video": "https://www.youtube.com/embed/X5e8NZBfTn8"
+      },
+      {
+        "chapter": 9,
+        "title": "Lists and Keys",
+        "description": "Lists and Keys",
+        "details": "Rendering lists with map() requires unique keys.",
+        "video": "https://www.youtube.com/embed/5sETJs2zWFk"
+      }
+    ]
+  },
+
+  {
+    "id": "id-akkvbh735",
+    "title": "Node",
+    "description": "Node.js is an open-source, cross-platform JavaScript runtime.",
+    "img": "https://cdn-icons-png.flaticon.com/512/5968/5968322.png",
+    "chapters": [
+      {
+        "chapter": 1,
+        "title": "Introduction",
+        "description": "Introduction to Node",
+        "details": "Node.js allows running JavaScript outside the browser.",
+        "video": "https://www.youtube.com/embed/TlB_eWDSMt4"
+      },
+      {
+        "chapter": 2,
+        "title": "NPM",
+        "description": "NPM",
+        "details": "NPM is the package manager for Node.js.",
+        "video": "https://www.youtube.com/embed/jHDhaSSKmB0"
+      },
+      {
+        "chapter": 3,
+        "title": "Modules",
+        "description": "Modules",
+        "details": "Modules help structure code into reusable parts.",
+        "video": "https://www.youtube.com/embed/xHLd36QoS4k"
+      },
+      {
+        "chapter": 4,
+        "title": "HTTP",
+        "description": "HTTP",
+        "details": "Node.js can create HTTP servers using http module.",
+        "video": "https://www.youtube.com/embed/FSs_JYwnAdI"
+      },
+      {
+        "chapter": 5,
+        "title": "Express",
+        "description": "Express",
+        "details": "Express is a lightweight web framework for Node.js.",
+        "video": "https://www.youtube.com/embed/L72fhGm1tfE"
+      },
+      {
+        "chapter": 6,
+        "title": "MongoDB",
+        "description": "MongoDB",
+        "details": "MongoDB is a NoSQL database storing JSON-like documents.",
+        "video": "https://www.youtube.com/embed/ofme2o29ngU"
+      },
+      {
+        "chapter": 7,
+        "title": "Mongoose",
+        "description": "Mongoose",
+        "details": "Mongoose provides schema-based modeling for MongoDB.",
+        "video": "https://www.youtube.com/embed/DZBGEVgL2eE"
+      }
+    ]
+  },
+
+  {
+    "id": "id-345knvkhj",
+    "title": "Azure",
+    "description": "Azure is a cloud computing service created by Microsoft.",
+    "img": "https://cdn-icons-png.flaticon.com/512/873/873107.png",
+    "chapters": [
+      {
+        "chapter": 1,
+        "title": "Introduction",
+        "description": "Introduction to Azure",
+        "details": "Azure enables building, deploying, and managing cloud apps.",
+        "video": "https://www.youtube.com/embed/8QnKMYrPlhA"
+      },
+      {
+        "chapter": 2,
+        "title": "Azure Portal",
+        "description": "Azure Portal",
+        "details": "The Azure Portal is used to manage cloud resources.",
+        "video": "https://www.youtube.com/embed/bG6b6K7tT4c"
+      },
+      {
+        "chapter": 3,
+        "title": "Azure CLI",
+        "description": "Azure CLI",
+        "details": "Azure CLI enables command-line management of resources.",
+        "video": "https://www.youtube.com/embed/7KXwaj7VqjM"
+      },
+      {
+        "chapter": 4,
+        "title": "Azure PowerShell",
+        "description": "Azure PowerShell",
+        "details": "PowerShell provides scripting for Azure automation.",
+        "video": "https://www.youtube.com/embed/kzAG2wE8xmA"
+      },
+      {
+        "chapter": 5,
+        "title": "Azure SDK",
+        "description": "Azure SDK",
+        "details": "Azure SDK offers libraries for building cloud apps.",
+        "video": "https://www.youtube.com/embed/zw0K9Tt2yFc"
+      },
+      {
+        "chapter": 6,
+        "title": "Azure Resource Manager",
+        "description": "Azure Resource Manager",
+        "details": "ARM is a management layer for Azure resources.",
+        "video": "https://www.youtube.com/embed/0kTlEjjGpnU"
+      },
+      {
+        "chapter": 7,
+        "title": "ARM Templates",
+        "description": "Azure Resource Manager Templates",
+        "details": "JSON-based templates to automate Azure deployments.",
+        "video": "https://www.youtube.com/embed/1aPpLhZNw8Q"
+      },
+      {
+        "chapter": 8,
+        "title": "ARM Template Functions",
+        "description": "Functions in ARM Templates",
+        "details": "Functions help automate template values.",
+        "video": "https://www.youtube.com/embed/yqHoPazTA7c"
+      },
+      {
+        "chapter": 9,
+        "title": "ARM Template Parameters",
+        "description": "Parameters in ARM Templates",
+        "details": "Parameters customize template deployment.",
+        "video": "https://www.youtube.com/embed/sYhpkJtY8xQ"
+      }
+    ]
+  },
+
+  {
+    "id": "id-sdffi89nf",
+    "title": "SQL",
+    "description": "SQL is a standard language for storing and retrieving data.",
+    "img": "https://cdn-icons-png.flaticon.com/512/8452/8452873.png",
+    "chapters": [
+      {
+        "chapter": 1,
+        "title": "Introduction",
+        "description": "Introduction to SQL",
+        "details": "Learn what SQL is and why it's used.",
+        "video": "https://www.youtube.com/embed/27axs9dO7AE"
+      },
+      {
+        "chapter": 2,
+        "title": "SQL Syntax",
+        "description": "SQL Syntax",
+        "details": "The structure of SQL queries.",
+        "video": "https://www.youtube.com/embed/HXV3zeQKqGY"
+      },
+      {
+        "chapter": 3,
+        "title": "SELECT Statement",
+        "description": "SQL SELECT Statement",
+        "details": "Used to fetch data from tables.",
+        "video": "https://www.youtube.com/embed/9yeOJ0ZMUYw"
+      },
+      {
+        "chapter": 4,
+        "title": "SELECT DISTINCT",
+        "description": "SQL SELECT DISTINCT",
+        "details": "Removes duplicate values.",
+        "video": "https://www.youtube.com/embed/srSp3T9vznQ"
+      },
+      {
+        "chapter": 5,
+        "title": "WHERE Clause",
+        "description": "SQL WHERE Clause",
+        "details": "Filters data with conditions.",
+        "video": "https://www.youtube.com/embed/5L9UhOnuos4"
+      },
+      {
+        "chapter": 6,
+        "title": "AND / OR / NOT",
+        "description": "SQL AND / OR / NOT",
+        "details": "Combining conditions.",
+        "video": "https://www.youtube.com/embed/yYEXKGc5LNA"
+      },
+      {
+        "chapter": 7,
+        "title": "ORDER BY",
+        "description": "ORDER BY",
+        "details": "Sorting SQL results.",
+        "video": "https://www.youtube.com/embed/GgJ2V5A6t8E"
+      },
+      {
+        "chapter": 8,
+        "title": "INSERT",
+        "description": "SQL INSERT INTO",
+        "details": "Adding new rows to a table.",
+        "video": "https://www.youtube.com/embed/Wu9kl3KwcR8"
+      },
+      {
+        "chapter": 9,
+        "title": "UPDATE",
+        "description": "SQL UPDATE",
+        "details": "Editing existing table rows.",
+        "video": "https://www.youtube.com/embed/7jDY5Kx_lZE"
+      },
+      {
+        "chapter": 10,
+        "title": "DELETE",
+        "description": "SQL DELETE",
+        "details": "Removing rows from a table.",
+        "video": "https://www.youtube.com/embed/IWcS6YvWub0"
+      }
+    ]
+  }
+]
